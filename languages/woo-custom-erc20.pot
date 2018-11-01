@@ -1,0 +1,54 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Customize ERC20 Currency\n"
+"POT-Creation-Date: 2018-11-01 11:44+0800\n"
+"PO-Revision-Date: 2018-11-01 11:31+0800\n"
+"Last-Translator: Bestony <xiqingongzi@gmail.com>\n"
+"Language-Team: Bestony <xiqingongzi@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: woocommerce-custom-erc20-currencies.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: woocommerce-custom-erc20-currencies.php:69
+msgid "Currency Settings"
+msgstr ""
+
+#: woocommerce-custom-erc20-currencies.php:76
+msgid "Currency Name"
+msgstr ""
+
+#: woocommerce-custom-erc20-currencies.php:84
+msgid "Currency Symbol"
+msgstr ""
+
+#: woocommerce-custom-erc20-currencies.php:112
+msgid "Settings Your Currency below."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#. Description of the plugin/theme
+#: woocommerce-custom-erc20-currencies.php:121
+msgid "WooCommerce Customize ERC20 Currency"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://developer.wordpress.org/plugins/the-basics/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Inkek Inc."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://blog.inkerk.com/"
+msgstr ""
