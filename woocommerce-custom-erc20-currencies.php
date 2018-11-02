@@ -4,7 +4,7 @@ Plugin Name:  WooCommerce Customize ERC20 Currency
 Plugin URI:   http://blog.inkerk.com/2018/11/01/woocommerce-customize-erc20-currency-plugin/
 Description:  A Plugin can add a new Currency for ERC20 Support.
 Version:      0.0.1
-Author:       Inkek Inc.
+Author:       inKerk Blockchain Inc
 Author URI:   http://www.inkerk.com/
 License:      GPL3
 License URI:  https://www.gnu.org/licenses/gpl-3.0.html
