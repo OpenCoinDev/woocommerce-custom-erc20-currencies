@@ -22,6 +22,8 @@ This plugin will add new Custom Currency to help you change your web site from a
 A: You must change currency at WooCommerce Settings
 
 == Changelog ==
+=== 0.0.3 ===
+1. update plugin guide
 === 0.0.1 ===
 1. init plugin
 

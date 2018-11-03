@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: WooCommerce Customize ERC20 Currency\n"
-"POT-Creation-Date: 2018-11-02 08:01+0800\n"
+"POT-Creation-Date: 2018-11-03 09:45+0800\n"
 "PO-Revision-Date: 2018-11-01 11:31+0800\n"
 "Last-Translator: Bestony <xiqingongzi@gmail.com>\n"
 "Language-Team: Bestony <xiqingongzi@gmail.com>\n"
@@ -43,8 +43,8 @@ msgstr ""
 
 #. Plugin URI of the plugin/theme
 msgid ""
-"http://blog.inkerk.com/2018/11/01/woocommerce-customize-erc20-currency-"
-"plugin/"
+"https://inkerk.github.io/blog/2018/11/01/woocommerce-customize-erc20-"
+"currency-plugin/"
 msgstr ""
 
 #. Description of the plugin/theme
@@ -52,7 +52,7 @@ msgid "A Plugin can add a new Currency for ERC20 Support."
 msgstr ""
 
 #. Author of the plugin/theme
-msgid "inKerk Blockchain Inc"
+msgid "inKerk Blockchain Inc."
 msgstr ""
 
 #. Author URI of the plugin/theme
